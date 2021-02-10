@@ -7,6 +7,9 @@ import numpy as np
 from tkinter import filedialog
 from tkinter import *
 
+'''
+@author: Piero Morandim Maduro
+'''
 #os dados do anemometro estão na pasta 'E:\piero.maduro\Documents\Python_Scripts\testes_anemometros'
 root = Tk()
 root.withdraw()
