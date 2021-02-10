@@ -5,6 +5,10 @@ import pandas as pd
 from matplotlib import pyplot as plt
 import numpy as np
 
+'''
+@author: Piero Morandim Maduro
+'''
+
 os.chdir(r'E:\piero.maduro\Documents\Python_Scripts\testes_anemometros' )
 
 anemometro=[]
